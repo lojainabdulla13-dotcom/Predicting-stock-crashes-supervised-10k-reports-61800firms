@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+imbalanced-learn
+category_encoders
+xlrd  # needed by pandas to read .xls files
+jupyter
